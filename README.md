@@ -36,3 +36,13 @@ gravité.
 
 ### casuality
 ![](images/Capture%20d%E2%80%99e%CC%81cran%202021-01-21%20a%CC%80%2017.44.50.png)
+
+
+---
+# Modelisation
+
+## Modèle Entité/Association 
+
+## Modèle Objet Relationnel 
+
+## Modèle Dimensionnel 
