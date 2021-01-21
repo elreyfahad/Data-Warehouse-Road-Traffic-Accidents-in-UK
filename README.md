@@ -1,6 +1,5 @@
 # Data Warehouse Road Traffic Accidents in United Kingdom
-
-Creation d'un data warehouse sur les accidents de la route survenue au Royaume Unie entre 2016 et 2018.
+---
 
 # Problematique :
 
