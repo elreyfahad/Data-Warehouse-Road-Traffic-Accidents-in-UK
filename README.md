@@ -9,8 +9,8 @@ routière est souvent négligée en termes de ressources et d'aide. Les défauts
 d'ingénierie des routes, associés au comportement du conducteur, peuvent être surmontés grâce
 à des efforts concertés.
 
-Notre étude se base sur le cas du Grande-Bretagne ou chaque année, quelque 3400 personnes
-sont tuées sur les routes, dont 218 enfants.137000 autres blessés graves et 272 500 légèrement
+Notre étude se base sur le cas du Grande-Bretagne ou chaque année, quelque **3400 personnes**
+sont tuées sur les routes, dont **218 enfants**.**137000** autres blessés graves et **272 500** légèrement
 blessés.
 
 ---
