@@ -31,7 +31,7 @@ gravité.
 
 
 ## accident
-![](images/Capture%20d’écran%202021-01-21%20à%2017.45.28.png)
+![](images/Capture%20d’écran%202021-01-21%20à%2017.45.28.png)
 
 ## vehicle
 ![](images/Capture%20d%E2%80%99e%CC%81cran%202021-01-21%20a%CC%80%2017.44.04.png)
@@ -63,7 +63,7 @@ gravité.
 ## Série chronologique de l'évolution du nombre des accidents au cours des années 2016, 2017 et 2018 
 ![](images/accident%20par%20annee.png)
 
-## Le types de conduicteur (par age et sexe ) qui provoque le plus d’accidents 
+## Le type de conducteur (age et sexe ) qui provoque le plus d’accidents 
 ![](images/accident%20par%20age.png)
 
 ##  La classe des victimes la plus affectée par les accidents routiers avec des sévérités  mortels
