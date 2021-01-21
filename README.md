@@ -14,7 +14,7 @@ sont tuées sur les routes, dont 218 enfants.137000 autres blessés graves et 27
 blessés.
 
 ---
-# Description des données
+# I- Description des données
 
 Nos données initiales sont composée de 4 fichier **“accident.csv”, ”vehicle.csv”, ”driver.csv”**
 et **”casualty.csv”**, qui fournissent respectivement des données détaillées sur les circonstances
@@ -26,21 +26,21 @@ gravité.
 
 
 
-### accident
+## accident
 ![](images/Capture%20d’écran%202021-01-21%20à%2017.45.28.png)
 
-### vehicle
+## vehicle
 ![](images/Capture%20d%E2%80%99e%CC%81cran%202021-01-21%20a%CC%80%2017.44.04.png)
 
-### driver
+## driver
 ![](images/Capture%20d%E2%80%99e%CC%81cran%202021-01-21%20a%CC%80%2017.45.09.png)
 
-### casuality
+## casuality
 ![](images/Capture%20d%E2%80%99e%CC%81cran%202021-01-21%20a%CC%80%2017.44.50.png)
 
 
 ---
-# Modelisation
+# II- Modelisation
 
 ## Modèle Entité/Association 
 ![](images/model%20entite%20relationnel.png)
@@ -51,3 +51,31 @@ gravité.
 
 ## Modèle Dimensionnel 
 ![](images/modele%20dimensionnel.png)
+
+
+---
+# III - Reporting
+
+## Série chronologique de l'évolution du nombre des accidents au cours des années 2016, 2017 et 2018 
+![](images/accident%20par%20annee.png)
+
+## Le types de conduicteur (par age et sexe ) qui provoque le plus d’accidents 
+![](images/accident%20par%20age.png)
+
+##  La classe des victimes la plus affectée par les accidents routiers avec des sévérités  mortels
+![](images/accident%20par%20classe.png)
+
+## La sévérité des blessures des victimes par rapport au type de véhicule
+![](images/severite%20par%20vehicule.png)
+
+## Les villes ou il y’a le plus d’accidents
+![](images/accident%20par%20ville.png)
+
+
+
+
+
+
+
+
+
