@@ -1,8 +1,6 @@
-# ETL ACCIDENT DE LA ROUTE AU ROYAUME UNIE
+# Data Warehouse Road Traffic Accidents in United Kingdom
 
-# Problematique : 
-
-**COMMENT PEUT-ON REDUIRE LE NOMBRE D’ACCIDENTS ROUTIERE ET LEURS VICTIMES ?**
+Creation d'un data warehouse sur les accidents de la route survenue au Royaume Unie entre 2016 et 2018.
 
 En général, les accidents routières représentent une conjonction de multiples facteurs impliquant
 les infrastructures routières,les véhicules,les personnes et éventuellement le temps.Les
@@ -14,15 +12,25 @@ Notre étude se base sur le cas du Grande-Bretagne ou chaque année, quelque 340
 sont tuées sur les routes, dont 218 enfants.137000 autres blessés graves et 272 500 légèrement
 blessés.
 
+---
 # Description des données
 
 Nos données initiales sont composée de 4 fichier **“accident.csv”, ”vehicle.csv”, ”driver.csv”**
 et **”casualty.csv”**, qui fournissent respectivement des données détaillées sur les circonstances
 des accidents de la route avec blessures corporelles en Grande-Bretagne de 2016 à 2018, les
 types de véhicules et conducteurs impliqués et les victimes.En plus de fournir des détails sur la
-date, l'heure et le lieu, le fichier “accident.csv” donne un résumé de tous les véhicules et
+date, l'heure et le lieu, le fichier **“accident.csv”** donne un résumé de tous les véhicules et
 victimes signalés impliqués dans des accidents de la route et du nombre total de victimes, par
-gravité. Les détails dans les fichiers d'accident et de véhicule peuvent être liés à l'accident
-concerné par le champ **«Accident_Index»** ou **«ID_Accident»**.
+gravité.
 
-file:///Users/moustoifalaki/Desktop/Capture%20d%E2%80%99e%CC%81cran%202021-01-13%20a%CC%80%2019.50.05.png
+### accident
+https://github.com/elreyfahad/Data-Warehouse-Road-Traffic-Accidents-in-UK/blob/main/images/Capture%20d%E2%80%99e%CC%81cran%202021-01-21%20a%CC%80%2017.45.28.png
+
+### vehicle
+https://github.com/elreyfahad/Data-Warehouse-Road-Traffic-Accidents-in-UK/blob/main/images/Capture%20d%E2%80%99e%CC%81cran%202021-01-21%20a%CC%80%2017.44.04.png
+
+### driver
+https://github.com/elreyfahad/Data-Warehouse-Road-Traffic-Accidents-in-UK/blob/main/images/Capture%20d%E2%80%99e%CC%81cran%202021-01-21%20a%CC%80%2017.45.09.png
+
+### casuality
+https://github.com/elreyfahad/Data-Warehouse-Road-Traffic-Accidents-in-UK/blob/main/images/Capture%20d%E2%80%99e%CC%81cran%202021-01-21%20a%CC%80%2017.44.50.png
