@@ -24,7 +24,7 @@ victimes signalés impliqués dans des accidents de la route et du nombre total 
 gravité.
 
 ### accident
-https://github.com/elreyfahad/Data-Warehouse-Road-Traffic-Accidents-in-UK/blob/main/images/Capture%20d%E2%80%99e%CC%81cran%202021-01-21%20a%CC%80%2017.45.28.png
+![alt text] (https://github.com/elreyfahad/Data-Warehouse-Road-Traffic-Accidents-in-UK/blob/main/images/Capture%20d%E2%80%99e%CC%81cran%202021-01-21%20a%CC%80%2017.45.28.png)
 
 ### vehicle
 https://github.com/elreyfahad/Data-Warehouse-Road-Traffic-Accidents-in-UK/blob/main/images/Capture%20d%E2%80%99e%CC%81cran%202021-01-21%20a%CC%80%2017.44.04.png
